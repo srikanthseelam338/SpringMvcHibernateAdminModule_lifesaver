@@ -1,0 +1,1 @@
+# SpringMvcHibernateAdminModule_lifesaver
